@@ -122,12 +122,6 @@ Implemented:
 
 ## 📊 Results
 
-| Model | MAE | RMSE | WMAE | R² |
-|------|------|------|------|------|
-| Linear Regression | XX | XX | XX | XX |
-| Random Forest | XX | XX | XX | XX |
-| XGBoost | XX | XX | XX | XX |
-
 XGBoost achieved the best forecasting performance and was selected as the final model.
 
 ---
