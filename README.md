@@ -1,6 +1,6 @@
-# 🛒 Retail Demand Forecasting using Walmart Store Sales Data
+#  Retail Demand Forecasting using Walmart Store Sales Data
 
-## 📌 Overview
+##  Overview
 
 This project develops a machine learning-based demand forecasting system for Walmart retail stores using historical sales data and external factors such as holidays, promotional markdowns, weather conditions, fuel prices, CPI, unemployment, and store characteristics.
 
@@ -8,7 +8,7 @@ The objective is to accurately predict weekly sales, helping retailers optimize 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Predict weekly sales for Walmart stores and departments.
 - Analyze seasonal and holiday sales patterns.
@@ -19,7 +19,7 @@ The objective is to accurately predict weekly sales, helping retailers optimize 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 Dataset: Walmart Store Sales Forecasting (Kaggle)
 
@@ -32,7 +32,7 @@ Files Used:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -47,7 +47,7 @@ Files Used:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ### 1. Data Loading
 
@@ -151,7 +151,7 @@ Retail-Demand-Forecasting-Walmart/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 Clone the repository
 
@@ -173,7 +173,7 @@ jupyter notebook Walmart_Retail_Demand_Forecasting.ipynb
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Deep Learning (LSTM/GRU)
 - Prophet Forecasting
@@ -183,7 +183,7 @@ jupyter notebook Walmart_Retail_Demand_Forecasting.ipynb
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Madaparthi Venkatesh**
 
